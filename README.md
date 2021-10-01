@@ -17,4 +17,14 @@ If player inputs an invalid input - Position is occupied or not number 1 to 9, p
 ![Wrong Input](https://user-images.githubusercontent.com/88434211/135615179-a54f497c-d8e1-465d-bc03-12ff3c225a9d.png)\
 ![Not Number Input](https://user-images.githubusercontent.com/88434211/135615175-37866ad0-520c-4ab8-b96d-7697c1982f7b.png)\
 The game is then played until someone wins the game\
-![Won The Game](https://user-images.githubusercontent.com/88434211/135615178-2e5531c4-a248-4883-9170-a70779a39f34.png)
+![Won The Game](https://user-images.githubusercontent.com/88434211/135615178-2e5531c4-a248-4883-9170-a70779a39f34.png)  
+
+
+For the Car Rental Project, we were tasked to code a program that features:
+- View Available Inventory
+- View Rental Costs
+- Rental Calculator
+- Make A Reservation
+- Cancel A Reservation
+
+I've attempted to do them both via Object-Oriented Programming Way and the simple and direct way of using CSV Files and manipulating it via inputs from Users (Pseudo-DB)
