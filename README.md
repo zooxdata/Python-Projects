@@ -27,4 +27,8 @@ For the Car Rental Project, we were tasked to code a program that features:
 - Make A Reservation
 - Cancel A Reservation
 
-I've attempted to do them both via Object-Oriented Programming Way and the simple and direct way of using CSV Files and manipulating it via inputs from Users (Pseudo-DB)
+(Inventory.py, Vehicles.py, VehicleCost.py, Main.py, Reservations.py) 
+1. I've attempted to do them via Object-Oriented Programming Way and 
+ 
+(All the CSVs consists the lists of vehicles and it's details, Python Script for this method is Revised.py)
+2. The simple and direct way of using CSV Files that acts like a pseudo-Database and manipulating it via inputs from Users.
