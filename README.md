@@ -8,7 +8,8 @@ These are all the projects I've worked on both individually and in groups.
 2. Car Rental Program (Object-Oriented-Programming)
 
 
-For Tic-Tac-Toe, it's simple. 
+For Tic-Tac-Toe, it's simple  
+
 Player is given 'X' and program will prompt for position (1 to 9) where He/She wants to place the 'X'\
 ![Input Position](https://user-images.githubusercontent.com/88434211/135615183-67b5406d-a1f7-4dca-92f3-6c4d769663af.png)\
 Computer will then randomly generate a position to place 'O'\
