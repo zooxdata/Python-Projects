@@ -6,6 +6,7 @@ These are all the projects I've worked on both individually and in groups.
 **Python Programming**
 1. Tic-Tac-Toe
 2. Car Rental Program (Object-Oriented-Programming)
+3. Time Converter
 
 
 For Tic-Tac-Toe, it's simple  
@@ -31,3 +32,7 @@ For the Car Rental Project, we were tasked to code a program that features:
 1. I've attempted to do them via Object-Oriented Programming Way (Inventory.py, Vehicles.py, VehicleCost.py, Main.py, Reservations.py) 
 
 2. The simple and direct way of using CSV Files that acts like a pseudo-Database and manipulating it via inputs from Users (All the CSVs consists the lists of vehicles and it's details, Python Script for this method is Revised.py)   
+
+
+Time Converter:
+Input a time in 12-hour AM/PM format, converts it to military (24-hour) time as output.
